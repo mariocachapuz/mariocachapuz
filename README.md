@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mario :nerd:</h1>
+<h1 align="center">Hi there, I'm Mario 🤓:</h1>
 <h3 align="center">Junior Full Stack Developer from :portugal:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariocachapuz&label=Profile%20views&color=0e75b6&style=flat" alt="mariocachapuz" /> </p>
