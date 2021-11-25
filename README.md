@@ -1,27 +1,23 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="laptop">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Iuri Silva. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI Designer</strong>.
+  🌎 Hi, my name is Mario and i'm a Junior Java Developer.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Sass, Tailwind CSS, ReactJS, Next.js e Styled Components.</strong>
+  🦄 Skills: <strong>HTML, CSS, JavaScript, Sass, Bootstrap, Java, SQL.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Trello, Vercel, Git e GitHub.</strong>
-</p>
-
-<p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+  💼 Tools: <strong>IntelliJ, Eclipse, VSCode, Figma, Git, SVN, GitHub, Jenkins</strong>
 </p>
 
 <p align="left">
   <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Mail&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/mariocachapuz" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
   
