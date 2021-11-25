@@ -12,16 +12,8 @@
   💼 Tools: <strong>IntelliJ, Eclipse, VSCode, Figma, Git, SVN, GitHub, Jenkins</strong>
 </p>
 
-<p align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Mail&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
-  </a>
-  
+<p align="left">  
   <a href="https://www.linkedin.com/in/mariocachapuz" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>
-  
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/mariocachapuz"/>
   </a>
 </p>
