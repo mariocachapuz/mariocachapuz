@@ -9,5 +9,5 @@
 </p>
 
 <p align="left">
- 🛠️ Tools: <strong>IntelliJ, Eclipse, VSCode, Figma, Git, SVN, GitHub, Jenkins</strong>
+ 🛠️ Tools: <strong>IntelliJ, Eclipse, VSCode, Figma, Git, SVN, GitHub, Jenkins, Sonar</strong>
 </p>
